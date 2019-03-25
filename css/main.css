@@ -31,6 +31,6 @@ img {
     padding-top: 2em;
 }
 
-.about-header {
+.about-header, .contact-header {
     text-align: center;
 }
